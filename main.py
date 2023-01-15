@@ -94,8 +94,8 @@ fisier.close()
 
 # We go through the list of words and check the validity
 for cuv in cuvinte:
-    drumParcurs = list()  # Lista drumParcurs memorează stările prin care se trece pentru a fi validat un cuvânt
-    gasit = 0  # variabila gasit consemnează găsirea unui drum prin care se validează un cuvânt
+    drumParcurs = list()  # The list stores the states through which a word is validated
+    gasit = 0  # the variable records the finding of a way to validate a word
     drum(stareInitiala, cuv)
     if drumParcurs:
         print("YES")
