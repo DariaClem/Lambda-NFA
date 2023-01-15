@@ -3,6 +3,8 @@
 
 **Assignment**: Write an algorithm that has as input a lambda-NFA and a list of strings. Display YES/NO for each word, if it is accepted or not. If the answear is YES, display a path that can be used to reach a destination node. 
 
+The symbol for lambda is #, therefore it cannot be used as a transition symbol with another meaning.
+
 ## How to use
 We read from file date.in:
 
@@ -18,7 +20,6 @@ number of strings
 
 the strings.
 
-Lambda will be represented by '#'.
 
 > _Example_
 
