@@ -1,7 +1,7 @@
 ### Formal Languages and Automata theory :computer_mouse:
 # Lambda-NFA (λ-NFA)
 
-**Assignment**: Write an algorithm that has as input a lambda-NFA and a list of strings. Display YES/NO for each word, if it is accepted or not. If the answear is YES, display a route that can be used to reach a destination node. 
+**Assignment**: Write an algorithm that has as input a lambda-NFA and a list of strings. Display YES/NO for each word, if it is accepted or not. If the answear is YES, display a path that can be used to reach a destination node. 
 
 ## How to use
 We read from file date.in:
