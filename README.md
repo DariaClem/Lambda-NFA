@@ -5,7 +5,7 @@
 
 The symbol for lambda is #, therefore it cannot be used as a transition symbol with another meaning.
 
-## How to use
+## How to write the input
 We read from file date.in:
 
 n (number of states), m (number of transition)
