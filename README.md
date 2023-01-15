@@ -5,6 +5,7 @@
 
 ## How to use
 We read from file date.in:
+
 n (number of states), m (number of transition)
 
 m transition (start node, destination node, transition)
